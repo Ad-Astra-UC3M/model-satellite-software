@@ -1,0 +1,28 @@
+# STM32CubeIDE / Eclipse build outputs
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+
+# Workspace (per user)
+.metadata/
+*.launch.bak
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+
+# Python (ground station)
+__pycache__/
+*.pyc
+.venv/
